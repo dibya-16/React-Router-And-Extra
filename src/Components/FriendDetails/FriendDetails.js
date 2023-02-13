@@ -11,7 +11,7 @@ const FriendDetails = (props) => {
     }
 
     ,[]);
-    const {name}=props.product;
+    const {name}=props.products;
 
     return (
         <div>
